@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "username": "johndoe",
+    "height": 180,
+    "weight": 75,
+    "age": 30,
+    "hobbies": ["coding", "hiking", "photography"],
+    "social_media": {
+        "twitter": "@johndoe",
+        "linkedin": "linkedin.com/in/johndoe",
+        "github": "github.com/johndoe"
+    }
+
+}
